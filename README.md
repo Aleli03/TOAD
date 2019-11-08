@@ -25,6 +25,21 @@
 
 ![icon](./img/SmallerSelection.gif) 
 
+- After selecting the desired option, type the desired name.
+- Then press ctrl+s in order to update the new method's name.
+
+![icon](./img/OkButton.gif) 
+
+ - Then the section will be replaced with a call to the new method, and a new method will be created:
+
+![icon](./img/LastGif.gif) 
+
+### Observations:
+ - When there are not enough available options the buttons will be displayed as disabled:
+ 
+![icon](./img/obs1.jpg) 
+
+
 # ![icon](./img/VideoIcon.png) DATA SET
 
 ## Replication Study
