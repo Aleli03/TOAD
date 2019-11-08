@@ -1,6 +1,11 @@
-<img src="./img/ToadIcon.png" align="right" style="width:70px"/>
+#  ![icon](./img/ToadIcon.png) TOAD- HOW TO USE 
+## Prerequisites 
+ - Have Pharo 7 already installed in your computer
+ - Download this package using iceberg to your pharo image
+## HOW TO USE
 
-# How to use
+
+# ![icon](./img/VideoIcon.png) DATA SET
 
 ## Replication Study
 | `Participant` | `Number of attempts`| `Total attempts changed as expected`|`Link to video(s)`|
@@ -15,7 +20,7 @@
 | P8 | 9| 5|<a href="https://drive.google.com/open?id=1H59iHSiSxbebLpj-0Our-WJUI0bdC0pn"> Video and Resume (P8) </a >|
 | P9 | 9| 5|<a href="https://drive.google.com/open?id=1lj_8XtZAsy9_-PfJ9bpwuqsuImZvHAWr"> Video and Resume (P9) </a >|
 | P10 |14| 0|<a href="https://drive.google.com/open?id=1gdmKf2vqivK4yXaRUbp7juCzc_WV1U89"> Video and Resume (P10) </a >|
-# Controlled experiment
+## Controlled experiment
 | `Participant` |`Link to video(s)`|
 |---------------|------------------|
 | P1 | <a href="https://drive.google.com/open?id=1gx795fnfAi0evR8HbBA4K6wYSptJLe4Y"> Videos (P1)</a >|
