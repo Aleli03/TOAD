@@ -6,10 +6,24 @@
 ### Step 1: Select the section of code that you would like to extract in a new method
 ![icon](./img/SelectGif.gif) 
 ### Step 2: Open TOAD
-    - Right click in selection
-    - Select "Refactoring suggestion" option
-    - Click on "Extract method suggestion"
+ - Right click in selection
+ - Select "Refactoring suggestion" option
+ - Click on "Extract method suggestion"
+
 ![icon](./img/Click.gif) 
+
+### Step 3: SELECT AN OPTION AND NEW'S FUNCTION NAME
+ - By default, the selection option selected is the one from the middle (this one is considered as the nearest valid selection related with the original one)
+
+![icon](./img/DefaultOption.jpg) 
+
+ - You can navigate through the options in order to find a bigger selection (By selecting the right options)
+
+![icon](./img/BiggerSelection.gif) 
+
+ - And also you can navigate through the options in order to find a smaller selection (By selecting the left options)
+
+![icon](./img/SmallerSelection.gif) 
 
 # ![icon](./img/VideoIcon.png) DATA SET
 
