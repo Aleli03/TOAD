@@ -5,6 +5,11 @@
 ## HOW TO USE
 ### Step 1: Select the section of code that you would like to extract in a new method
 ![icon](./img/SelectGif.gif) 
+### Step 2: Open TOAD
+    - Right click in selection
+    - Select "Refactoring suggestion" option
+    - Click on "Extract method suggestion"
+![icon](./img/Click.gif) 
 
 # ![icon](./img/VideoIcon.png) DATA SET
 
