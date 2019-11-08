@@ -3,7 +3,8 @@
  - Have Pharo 7 already installed in your computer
  - Download this package using iceberg to your pharo image
 ## HOW TO USE
-
+### Step 1: Select the section of code that you would like to extract in a new method
+![icon](./img/SelectGif.gif) 
 
 # ![icon](./img/VideoIcon.png) DATA SET
 
